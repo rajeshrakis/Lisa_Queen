@@ -37,12 +37,12 @@ if os.path.exists("Internal"):
 #LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002063555777"))
 
 # Rajesh
-API_ID = int(getenv("API_ID", "13371001"))
-API_HASH = getenv("API_HASH", "f9e4a79850af44c26d736453a95308fc")
-BOT_TOKEN = getenv("BOT_TOKEN", "6773882212:AAGxTyLGiKX-8syKmtgRbHD4Jn5NTiem0DA")
-STRING_SESSION = getenv("STRING_SESSION", "BQB6w5MAqoqMLOuUiivDmxzkNQA01seula8MBuWfkeby9xM5h7MrEA6-nc3f2TzNIepXE1vK_nMST04Sv_oQyzlYNobJ9rLJ65Ug_RoliF7msVzU8_6fweL-P10Dh05Tjs9gk_m-uqvW_xu_LJGAi4DwIAe0d0j0ZV9cNs57yS136aUuu2RlTdoQLR0KNTpi2hSvWJccQylC3yci_nMUqQ4eIpohiunKi8optfAw1eA96FyS-Oyejf3VW7n3YF1mj7v2zAcU7tN4yeVj7zphGn8T7wNc6Fihe8t6KY-JCFyhG_EX7Nbt1sBDY74EWlYsn1Ux86xdwTfcFQ3Dvuavp1TdIPQf1QAAAABMXtJJAA")
-MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://heartbeat:Beat7Heart@heartbeat.1h1nbxv.mongodb.net/?retryWrites=true&w=majority")
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002063555777"))
+#API_ID = int(getenv("API_ID", "13371001"))
+#API_HASH = getenv("API_HASH", "f9e4a79850af44c26d736453a95308fc")
+#BOT_TOKEN = getenv("BOT_TOKEN", "6773882212:AAGxTyLGiKX-8syKmtgRbHD4Jn5NTiem0DA")
+#STRING_SESSION = getenv("STRING_SESSION", "BQB6w5MAqoqMLOuUiivDmxzkNQA01seula8MBuWfkeby9xM5h7MrEA6-nc3f2TzNIepXE1vK_nMST04Sv_oQyzlYNobJ9rLJ65Ug_RoliF7msVzU8_6fweL-P10Dh05Tjs9gk_m-uqvW_xu_LJGAi4DwIAe0d0j0ZV9cNs57yS136aUuu2RlTdoQLR0KNTpi2hSvWJccQylC3yci_nMUqQ4eIpohiunKi8optfAw1eA96FyS-Oyejf3VW7n3YF1mj7v2zAcU7tN4yeVj7zphGn8T7wNc6Fihe8t6KY-JCFyhG_EX7Nbt1sBDY74EWlYsn1Ux86xdwTfcFQ3Dvuavp1TdIPQf1QAAAABMXtJJAA")
+#MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://heartbeat:Beat7Heart@heartbeat.1h1nbxv.mongodb.net/?retryWrites=true&w=majority")
+#LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002063555777"))
 
 
 # Book_Villain
@@ -63,12 +63,12 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002063555777"))
 #LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002063555777"))
 
 # Lisa_Queen
-#API_ID = int(getenv("API_ID", "22431483"))
-#API_HASH = getenv("API_HASH", "081facce8bed58c074ede1ab5b0c523c")
-#BOT_TOKEN = getenv("BOT_TOKEN", "7411947176:AAGVNuQsKSBQ0ZECQ73nPg0F2ltpk3szzdI")
-#STRING_SESSION = getenv("STRING_SESSION", "BQFWRvsAlV6jO9pEWKi-Apz0eb7r-ZyuJHaQ-m8JiFVx7aZF7zauN_05-yHIvEJovd7o7Ph3Qnja8dhq4IQqEJLn08XSlfj0Gd_G_L5m4DarecsN2_bSAcu3cjmLbTDtFouROX2uyMlpe0f9bNW0UFxi7MYWEeGngBK6IYXqWtwFGQEYTMiNj1o_0HMulaQxXwpB83SIfXR4yJhKxfe9j7eAjmO7HvqNdlZhappf-nqdlVwf0RiuY3v53OBYLJvNaez3-dt00XyZkXhSxbgfJblR-Wr98qmt8VzFGPVSMm_n2ATof5s5kiryMY5-4CCgR75H52NoGastphCiIoXpWgV70RBQAAAAE9MQ-rAA")
-#MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://admin:pass@cluster0.bqss1.mongodb.net/todo?retryWrites=true&w=majority")
-#LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002063555777"))
+API_ID = int(getenv("API_ID", "22431483"))
+API_HASH = getenv("API_HASH", "081facce8bed58c074ede1ab5b0c523c")
+BOT_TOKEN = getenv("BOT_TOKEN", "7411947176:AAGVNuQsKSBQ0ZECQ73nPg0F2ltpk3szzdI")
+STRING_SESSION = getenv("STRING_SESSION", "BQFWRvsAlV6jO9pEWKi-Apz0eb7r-ZyuJHaQ-m8JiFVx7aZF7zauN_05-yHIvEJovd7o7Ph3Qnja8dhq4IQqEJLn08XSlfj0Gd_G_L5m4DarecsN2_bSAcu3cjmLbTDtFouROX2uyMlpe0f9bNW0UFxi7MYWEeGngBK6IYXqWtwFGQEYTMiNj1o_0HMulaQxXwpB83SIfXR4yJhKxfe9j7eAjmO7HvqNdlZhappf-nqdlVwf0RiuY3v53OBYLJvNaez3-dt00XyZkXhSxbgfJblR-Wr98qmt8VzFGPVSMm_n2ATof5s5kiryMY5-4CCgR75H52NoGastphCiIoXpWgV70RBQAAAAE9MQ-rAA")
+MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://admin:pass@cluster0.bqss1.mongodb.net/todo?retryWrites=true&w=majority")
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002063555777"))
 
 #------------------------------------------------------------------------------------------------------------------------------
 
